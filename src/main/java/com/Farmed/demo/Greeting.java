@@ -10,6 +10,8 @@ public class Greeting {
         this.content = content;
     }
 
+
+
     public long setId(long id) {
         return this.id = id;
     }
