@@ -22,3 +22,12 @@ public class GreetingController {
         return greetings;
     }
 }
+//    List<Greeting> greeting(){
+//// implementation
+//    }
+//
+//
+//[
+//        {1, "Hello World"},
+//        {2, "Hello Mars"}
+//        ]
